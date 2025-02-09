@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21b0e783bd68c094787e097cf4106e14, type: 3}
+  m_Name: IngradientsData
+  m_EditorClassIdentifier: 
+  _paramters:
+  - ingradientID: 0
+    nameRU: "\u0417\u0435\u043C\u043B\u044F\u043D\u0438\u043A\u0443"
+    nameEng: Strawberries
+    index: 0
+    fantom: {fileID: 176566597260305994, guid: 4dd9bf6b64a7c8a4ca4c72abc8566ccc, type: 3}
+  - ingradientID: 1
+    nameRU: "\u0428\u0438\u0448\u043A\u0438"
+    nameEng: Cones
+    index: 1
+    fantom: {fileID: 3453511624390586182, guid: f33384372b04a1c41818513670499ca0, type: 3}
+  - ingradientID: 2
+    nameRU: "\u041E\u0440\u0435\u0445\u0438"
+    nameEng: Nuts
+    index: 2
+    fantom: {fileID: 6358027064023346748, guid: bc69ef1c7b2f17a44801e7fa37e2fe1e, type: 3}
+  - ingradientID: 3
+    nameRU: "\u0413\u0440\u0438\u0431\u044B"
+    nameEng: Mushrooms
+    index: 3
+    fantom: {fileID: 5955719963030231760, guid: 807c886aaaefc7b44b49e03e7ca0e4bc, type: 3}
+  - ingradientID: 4
+    nameRU: "\u041C\u0443\u0445\u043E\u043C\u043E\u0440\u044B"
+    nameEng: Fly agaric
+    index: 4
+    fantom: {fileID: 5093106362533704937, guid: 72a4027e10bb4ee40b2f854d38050bd9, type: 3}
+  - ingradientID: 5
+    nameRU: "\u0422\u0440\u0430\u0432\u0443"
+    nameEng: Grass
+    index: 5
+    fantom: {fileID: 5067163148425964945, guid: 1d4169e59e29cc347adf36a803cc9905, type: 3}
+  - ingradientID: 6
+    nameRU: "\u0416\u0443\u043A\u0438"
+    nameEng: Bugs
+    index: 6
+    fantom: {fileID: 2756148267776988996, guid: b151c5aaff4eedf47a7e0238a2effacd, type: 3}
+  - ingradientID: 7
+    nameRU: "\u041E\u043F\u0438\u043B\u043A\u0438"
+    nameEng: Sawdust
+    index: 7
+    fantom: {fileID: 2237278656172353727, guid: c8a7fcc4776653244ad5253251725b41, type: 3}
+  - ingradientID: 8
+    nameRU: "\u0421\u043E\u043B\u044C"
+    nameEng: Salt
+    index: 8
+    fantom: {fileID: 6194156032392188408, guid: 90ec6ebd76dc7ca4ea1fec29869e883f, type: 3}
+  - ingradientID: 9
+    nameRU: "\u0421\u0430\u0445\u0430\u0440"
+    nameEng: Sugar
+    index: 9
+    fantom: {fileID: 5627324756764948016, guid: 8affc82a50082a341913fc2c3da41471, type: 3}
+  - ingradientID: 10
+    nameRU: "\u041F\u0435\u0440\u0435\u0446"
+    nameEng: Pepper
+    index: 10
+    fantom: {fileID: 9181119880067128821, guid: 8bd3b06d96d0e714e9eea5fdbaa98cdc, type: 3}
+  - ingradientID: 11
+    nameRU: "\u0420\u044B\u0431\u044B"
+    nameEng: Fish
+    index: 11
+    fantom: {fileID: 8670789816197805720, guid: f0f9971aaf1293d46b8c2ee6b700a696, type: 3}

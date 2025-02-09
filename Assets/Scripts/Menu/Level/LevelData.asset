@@ -1,0 +1,258 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1105d89949d107642a9e4de7705e0300, type: 3}
+  m_Name: LevelData
+  m_EditorClassIdentifier: 
+  Levels:
+  - isOpen: 1
+    numberStars: 2
+    isShowSign: 0
+    numberStarsForOpenLevel: 0
+    levelSetting:
+      ingradientIndexList: 0000000005000000
+      badIngradients: 
+    recipes:
+    - recipes: 0
+      stateDish: 3
+    - recipes: 05
+      stateDish: 4
+  - isOpen: 1
+    numberStars: 3
+    isShowSign: 0
+    numberStarsForOpenLevel: 0
+    levelSetting:
+      ingradientIndexList: 010000000400000005000000
+      badIngradients: 04000000
+    recipes:
+    - recipes: 5
+      stateDish: 3
+    - recipes: 15
+      stateDish: 4
+  - isOpen: 1
+    numberStars: 1
+    isShowSign: 0
+    numberStarsForOpenLevel: 0
+    levelSetting:
+      ingradientIndexList: 00000000030000000600000008000000
+      badIngradients: 06000000
+    recipes:
+    - recipes: 38
+      stateDish: 3
+    - recipes: 038
+      stateDish: 4
+  - isOpen: 1
+    numberStars: 0
+    isShowSign: 1
+    numberStarsForOpenLevel: 0
+    levelSetting:
+      ingradientIndexList: 020000000100000004000000060000000a000000
+      badIngradients: 0400000006000000
+    recipes:
+    - recipes: 210
+      stateDish: 3
+    - recipes: 1210
+      stateDish: 4
+  - isOpen: 0
+    numberStars: 0
+    isShowSign: 0
+    numberStarsForOpenLevel: 9
+    levelSetting:
+      ingradientIndexList: 00000000010000000200000004000000070000000b000000
+      badIngradients: 040000000b000000
+    recipes:
+    - recipes: 012
+      stateDish: 3
+    - recipes: 1
+      stateDish: 4
+  - isOpen: 0
+    numberStars: 0
+    isShowSign: 0
+    numberStarsForOpenLevel: 0
+    levelSetting:
+      ingradientIndexList: 000000000100000002000000030000000400000005000000
+      badIngradients: 04000000
+    recipes:
+    - recipes: 12
+      stateDish: 3
+    - recipes: 125
+      stateDish: 4
+  - isOpen: 0
+    numberStars: 0
+    isShowSign: 0
+    numberStarsForOpenLevel: 0
+    levelSetting:
+      ingradientIndexList: 0100000003000000040000000500000006000000090000000a000000
+      badIngradients: 0400000006000000
+    recipes:
+    - recipes: 5910
+      stateDish: 3
+    - recipes: 35910
+      stateDish: 4
+  - isOpen: 0
+    numberStars: 0
+    isShowSign: 0
+    numberStarsForOpenLevel: 0
+    levelSetting:
+      ingradientIndexList: 0000000002000000050000000600000007000000090000000b000000
+      badIngradients: 060000000b000000
+    recipes:
+    - recipes: 07
+      stateDish: 3
+    - recipes: 0579
+      stateDish: 4
+  - isOpen: 0
+    numberStars: 0
+    isShowSign: 0
+    numberStarsForOpenLevel: 0
+    levelSetting:
+      ingradientIndexList: 0100000002000000040000000500000006000000070000000a0000000b000000
+      badIngradients: 04000000060000000b000000
+    recipes:
+    - recipes: 2510
+      stateDish: 3
+    - recipes: 12510
+      stateDish: 4
+  - isOpen: 0
+    numberStars: 0
+    isShowSign: 0
+    numberStarsForOpenLevel: 25
+    levelSetting:
+      ingradientIndexList: 00000000010000000200000003000000040000000500000008000000
+      badIngradients: 0300000004000000
+    recipes:
+    - recipes: 028
+      stateDish: 3
+    - recipes: 0158
+      stateDish: 4
+  - isOpen: 0
+    numberStars: 0
+    isShowSign: 0
+    numberStarsForOpenLevel: 0
+    levelSetting:
+      ingradientIndexList: 00000000010000000200000004000000050000000600000007000000090000000a0000000b000000
+      badIngradients: 04000000060000000b000000
+    recipes:
+    - recipes: 2579
+      stateDish: 3
+    - recipes: 025710
+      stateDish: 4
+  - isOpen: 0
+    numberStars: 0
+    isShowSign: 0
+    numberStarsForOpenLevel: 0
+    levelSetting:
+      ingradientIndexList: 0000000001000000020000000300000004000000050000000600000008000000090000000a000000
+      badIngradients: 040000000500000006000000
+    recipes:
+    - recipes: 3810
+      stateDish: 3
+    - recipes: 0189
+      stateDish: 4
+  - isOpen: 0
+    numberStars: 0
+    isShowSign: 0
+    numberStarsForOpenLevel: 0
+    levelSetting:
+      ingradientIndexList: 00000000010000000300000005000000060000000700000008000000090000000b000000
+      badIngradients: 06000000070000000b000000
+    recipes:
+    - recipes: 1358
+      stateDish: 3
+    - recipes: 038
+      stateDish: 4
+  - isOpen: 0
+    numberStars: 0
+    isShowSign: 0
+    numberStarsForOpenLevel: 0
+    levelSetting:
+      ingradientIndexList: 00000000010000000200000003000000040000000500000006000000
+      badIngradients: 0400000006000000
+    recipes:
+    - recipes: 015
+      stateDish: 3
+    - recipes: 235
+      stateDish: 4
+  - isOpen: 0
+    numberStars: 0
+    isShowSign: 0
+    numberStarsForOpenLevel: 41
+    levelSetting:
+      ingradientIndexList: 000000000100000002000000030000000400000005000000060000000700000009000000
+      badIngradients: 0400000006000000
+    recipes:
+    - recipes: 0235
+      stateDish: 3
+    - recipes: 1359
+      stateDish: 4
+  - isOpen: 0
+    numberStars: 0
+    isShowSign: 0
+    numberStarsForOpenLevel: 0
+    levelSetting:
+      ingradientIndexList: 000000000100000002000000030000000400000005000000060000000700000008000000090000000b000000
+      badIngradients: 05000000060000000b000000
+    recipes:
+    - recipes: 1279
+      stateDish: 3
+    - recipes: 24789
+      stateDish: 4
+  - isOpen: 0
+    numberStars: 0
+    isShowSign: 0
+    numberStarsForOpenLevel: 0
+    levelSetting:
+      ingradientIndexList: 00000000010000000200000003000000040000000500000006000000090000000a0000000b000000
+      badIngradients: 0200000004000000
+    recipes:
+    - recipes: 351011
+      stateDish: 3
+    - recipes: 1369
+      stateDish: 4
+  - isOpen: 0
+    numberStars: 0
+    isShowSign: 0
+    numberStarsForOpenLevel: 0
+    levelSetting:
+      ingradientIndexList: 0000000001000000020000000300000004000000050000000600000007000000080000000a0000000b000000
+      badIngradients: 01000000030000000b000000
+    recipes:
+    - recipes: 025710
+      stateDish: 3
+    - recipes: 45610
+      stateDish: 4
+  - isOpen: 0
+    numberStars: 0
+    isShowSign: 0
+    numberStarsForOpenLevel: 0
+    levelSetting:
+      ingradientIndexList: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b000000
+      badIngradients: 01000000040000000b000000
+    recipes:
+    - recipes: 02367
+      stateDish: 3
+    - recipes: 037911
+      stateDish: 4
+  - isOpen: 0
+    numberStars: 0
+    isShowSign: 0
+    numberStarsForOpenLevel: 55
+    levelSetting:
+      ingradientIndexList: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b000000
+      badIngradients: 0000000003000000040000000b000000
+    recipes:
+    - recipes: 1268
+      stateDish: 3
+    - recipes: 25710
+      stateDish: 4
+  _prefabLevel: {fileID: 3901064432132265776, guid: d9920e26ec4866144b1492009df047bc, type: 3}
+  _activeLevel: 2
+  _allStars: 6
